@@ -4,9 +4,8 @@ public class Act5_4App {
 	
 	public static void main (String args []) {
 		
-		// Pi y petición de radio
+		// Petición de radio
 		
-		Number pi = Math.PI;
 		
 		String radio = JOptionPane.showInputDialog(null, "¿Cuál es el radio?");
 		
