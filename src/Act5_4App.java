@@ -6,7 +6,6 @@ public class Act5_4App {
 		
 		// Petición de radio
 		
-		
 		String radio = JOptionPane.showInputDialog(null, "¿Cuál es el radio?");
 		
 		// Conversión de String a Double
