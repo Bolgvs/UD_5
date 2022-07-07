@@ -2,7 +2,11 @@ public class Act5_1App {
 	
 	public static void main (String args []) {
 		
+		// Variables
+		
 		int num1 = 77, num2 = 91;
+		
+		// Comandos
 		
 		if (num1 > num2) {
 			
