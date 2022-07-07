@@ -6,11 +6,11 @@ public class Act5_5App {
 		
 		// Lectura del número por teclado:
 		
-		String num1 = JOptionPane.showInputDialog(null, "¿Cuál es el numero?");
+		String texto_num = JOptionPane.showInputDialog(null, "¿Cuál es el numero?");
 		
 		// Conversión de String a int
 		
-		int num = Integer.parseInt(num1);
+		int num = Integer.parseInt(texto_num);
 		
 		// Ver si es divisible entre 2 o no
 		
